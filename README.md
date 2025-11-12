@@ -1,4 +1,4 @@
-## Figma макет
+# Figma макет
 https://www.figma.com/design/xnna3LoHyxZ1dMTuzfCD87/web?node-id=46-2&p=f&t=2xxvB8yAMZcciSiV-0
 
 # To-Do List
@@ -36,5 +36,6 @@ https://www.figma.com/design/xnna3LoHyxZ1dMTuzfCD87/web?node-id=46-2&p=f&t=2xxvB
 │── script.js       # Логика To-Do List (добавление, удаление, отметка)
 └── images/         # Иконки для задач
 ```
+
 
 
