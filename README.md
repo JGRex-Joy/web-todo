@@ -1,3 +1,6 @@
+## Figma макет
+https://www.figma.com/design/xnna3LoHyxZ1dMTuzfCD87/web?node-id=46-2&p=f&t=2xxvB8yAMZcciSiV-0
+
 # To-Do List
 
 Простое веб-приложение для управления задачами, где можно добавлять, отмечать как выполненные и удалять задачи.  
@@ -33,4 +36,5 @@
 │── script.js       # Логика To-Do List (добавление, удаление, отметка)
 └── images/         # Иконки для задач
 ```
+
 
